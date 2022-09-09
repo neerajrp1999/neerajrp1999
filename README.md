@@ -1,16 +1,13 @@
-### Hi there 👋
+### Hi there I am Neeraj Prajapati 👋
 
-<!--
-**neerajrp1999/neerajrp1999** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on projects based on NLP, Computer Vision , Python and Java.
 
-Here are some ideas to get you started:
+- 📚 I am currently learning anything and everything that I can 😂.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🏆 I am new to open soure and would love to contribute to open source organisations !
+
+## 🔗 Connect with me
+[![](https://img.shields.io/badge/linkedin-Neeraj%20Prajapati-green)](https://www.linkedin.com/in/neeraj-prajapati-10bbb916a/)
+
+[![](https://img.shields.io/badge/Gmail-neerajrp1999%40gmail.com-green)](https://mail.google.com/mail/?fs=1&to=neerajrp1999@gmail.com&su=SUBJECT&bcc=neerajrp1999@gmail.com.com&tf=cm/)
+
