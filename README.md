@@ -9,5 +9,5 @@
 ## 🔗 Connect with me
 [![](https://img.shields.io/badge/linkedin-Neeraj%20Prajapati-green)](https://www.linkedin.com/in/neeraj-prajapati-10bbb916a/)
 
-[![](https://img.shields.io/badge/Gmail-neerajrp1999%40gmail.com-green)](https://mail.google.com/mail/?fs=1&to=neerajrp1999@gmail.com&su=SUBJECT&bcc=neerajrp1999@gmail.com.com&tf=cm/)
+[![](https://img.shields.io/badge/Gmail-neerajrp1999%40gmail.com-green)](https://mail.google.com/mail/?view=cm&fs=1&to=neerajrp1999@gmail.com/)
 
