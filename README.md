@@ -48,4 +48,4 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=neerajrp1999&show_icons=true&locale=en&layout=compact&langs_count=10" alt="n1" /></p>
 
 </br>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=n1&" alt="n1" /></p>
+<p style="padding-top: 5px;"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=n1&" alt="n1" /></p>
