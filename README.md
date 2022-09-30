@@ -46,3 +46,16 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=n1&" alt="n1" /></p>
 
+
+
+## Most Used Languguages
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=neerajrp1999&layout=compact&langs_count=10)](https://github.com/neerajrp1999/github-readme-stats)
+
+- 🔭 I’m currently working on projects based on NLP, Computer Vision , Python and Java.
+- 📚 I am currently learning anything and everything that I can 😂.
+- 🏆 I am new to open soure and would love to contribute to open source organisations !
+## 🔗 Connect with me
+[![](https://img.shields.io/badge/linkedin-Neeraj%20Prajapati-green)](https://www.linkedin.com/in/neeraj-prajapati-10bbb916a/)
+[![](https://img.shields.io/badge/Gmail-neerajrp1999%40gmail.com-green)](https://mail.google.com/mail/?view=cm&fs=1&to=neerajrp1999@gmail.com/)
+## GitHub stats
+![Neeraj GitHub stats](https://github-readme-stats.vercel.app/api?username=neerajrp1999&theme=omni&show_icons=true)
