@@ -1,10 +1,8 @@
 <h1 align="center">Hi 👋, I'm Neeraj R Prajapati</h1>
 <h3 align="center">A young-dumb 🤓 developer from India 🇮🇳</h3>
 
-
-
-
-
+</br>
+</br>
 - 🔭 I’m currently working on projects based on NLP, Computer Vision , Python and Java.
 - 📚 I am currently learning anything and everything that I can 😂.
 - 🏆 I am new to open soure and would love to contribute to open source organisations !
@@ -48,16 +46,8 @@
 ![Neeraj GitHub stats](https://github-readme-stats.vercel.app/api?username=neerajrp1999&theme=omni&show_icons=true)
 
 ## Most Used Languguages
-<center>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=neerajrp1999&layout=compact&langs_count=10)](https://github.com/neerajrp1999/github-readme-stats)
-</center>
-<center>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=n1&" alt="n1" /></p>
-</center>
-
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=neerajrp1999&show_icons=true&locale=en&layout=compact&langs_count=10" alt="n1" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=n1&show_icons=true&locale=en" alt="n1" /></p>
-
+<center>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=n1&" alt="n1" /></p>
-
+</center>
