@@ -2,7 +2,7 @@
 <h3 align="center">A young-dumb 🤓 developer from India 🇮🇳</h3>
 
 </br>
-</br>
+
 - 🔭 I’m currently working on projects based on NLP, Computer Vision , Python and Java.
 - 📚 I am currently learning anything and everything that I can 😂.
 - 🏆 I am new to open soure and would love to contribute to open source organisations !
@@ -37,7 +37,6 @@
 				<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
 				<a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a>
 				<a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> 
-				<a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a>
 				<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>  
 				<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
 				</p>
@@ -48,6 +47,5 @@
 ## Most Used Languguages
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=neerajrp1999&show_icons=true&locale=en&layout=compact&langs_count=10" alt="n1" /></p>
 
-<center>
+</br>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=n1&" alt="n1" /></p>
-</center>
