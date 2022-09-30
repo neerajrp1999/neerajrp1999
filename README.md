@@ -42,9 +42,8 @@
 ## GitHub stats
 ![Neeraj GitHub stats](https://github-readme-stats.vercel.app/api?username=neerajrp1999&theme=omni&show_icons=true)
 
-	
+## Streak Stats
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=n1&" alt="n1" /></p>
 
 ## Most Used Languguages
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=neerajrp1999&show_icons=true&locale=en&layout=compact&langs_count=10" alt="n1" /></p>
-
