@@ -8,8 +8,7 @@
 - 🏆 I am new to open soure and would love to contribute to open source organisations !
 
 
-
-<h3 align="left">Connect with me:</h3>
+## Connect with me:
 <p align="left">
 <a href="https://linkedin.com/in/neeraj-prajapati-10bbb916a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="n1" height="30" width="40" /></a>
 <a href="https://medium.com/n1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="n1" height="30" width="40" /></a>
@@ -20,8 +19,7 @@
 <a href="https://www.hackerearth.com/@neeraj1437" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="n1" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/n1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="n1" height="30" width="40" /></a>
 </p>
-
-<h3 align="left">Languages and Tools:</h3>
+## Languages and Tools:
 <p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> 
 				<a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
 				<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
@@ -46,6 +44,7 @@
 
 ## Most Used Languguages
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=neerajrp1999&show_icons=true&locale=en&layout=compact&langs_count=10" alt="n1" /></p>
-
+<p></p>
+<p></p>
 </br>
-<p style="padding-top: 5px;"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=n1&" alt="n1" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=n1&" alt="n1" /></p>
