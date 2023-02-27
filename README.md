@@ -11,17 +11,7 @@
 ## Connect with me:
 <p align="left">
 <a href="https://www.codechef.com/users/neerajrp1999" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="n1" height="30" width="40" /></a>
-	<!--
-<a href="https://linkedin.com/in/neeraj-prajapati-10bbb916a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="n1" height="30" width="40" /></a>
-<a href="https://medium.com/@neerajrp1999/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="n1" height="30" width="40" /></a>
 
-<a href="https://www.hackerrank.com/neerajrp1999" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="n1" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/n1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="n1" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/n1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="n1" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/@neeraj1437" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="n1" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/n1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="n1" height="30" width="40" /></a>
-
--->
 </p>
 
 ## Languages and Tools:
