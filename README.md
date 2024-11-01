@@ -10,7 +10,7 @@
 
 ## Connect with me:
 <p align="left">
-<a href="https://leetcode.com/u/neerajrp1999/" target="blank">
+<a href="https://leetcode.com/u/neerajrp1999/" target="_blank">
     <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="LeetCode" height="30" width="40" />
 </a>
 
