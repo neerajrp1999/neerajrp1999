@@ -10,7 +10,9 @@
 
 ## Connect with me:
 <p align="left">
-<a href="https://www.codechef.com/users/neerajrp1999" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="n1" height="30" width="40" /></a>
+<a href="https://leetcode.com/u/neerajrp1999/" target="blank">
+    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="LeetCode" height="30" width="40" />
+</a>
 
 </p>
 
