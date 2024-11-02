@@ -28,7 +28,7 @@
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
             alt="python" width="40" height="40" /> </a>
     <a href="https://www.rust-lang.org/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" alt="rust"
+        <img src="https://www.svgrepo.com/show/376347/rust.svg" alt="rust"
             width="40" height="40" />
     </a>
     <a href="https://golang.org/" target="_blank" rel="noreferrer">
@@ -56,7 +56,7 @@
             alt="nodejs" width="40" height="40" />
     </a>
     <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg"
+        <img src="https://www.svgrepo.com/show/353657/django-icon.svg"
             alt="django" width="40" height="40" />
     </a>
     <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
