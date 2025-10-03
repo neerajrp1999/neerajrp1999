@@ -170,7 +170,7 @@ def build_readme(username, total_repos, public_repos, private_repos, stars, foll
 . Uptime: .................... 2+ years (Professional Experience)
 . Host: ...................... 64 Squares LLC, Pune.
 . Kernel: .................... Full-Stack Software Engineer | Backend-Focused | Cloud-Native Systems
-. IDE: ....................... IntelliJ IDEA, VSCode, PyCharm
+. IDE: ....................... IntelliJ IDEA 2025.2.1, VSCode 1.95.1
 
 . Core Expertise: ............ Full-Stack Web Development, API Design, Scalable Architecture, 
 . Core Expertise: ............ System Design, Cloud Deployments, Performance Optimization,
@@ -188,6 +188,9 @@ def build_readme(username, total_repos, public_repos, private_repos, stars, foll
 
 . Hobbies.Software: .......... Software Development, Building Tools, Automation, Open Source Projects
 . Hobbies.Hardware: .......... Overclocking, Undervolting
+
+ — Open Source ——————————————————————————————————————————
+. <a href="https://www.npmjs.com/package/react-canvas-img" target="_blank" rel="noopener noreferrer">react-canvas-img</a>
 
 — Contact ——————————————————————————————————————————————
 . Email.Personal: ............ <a href="mailto:neerajrp1999@gmail.com">neerajrp1999@gmail.com</a>
