@@ -1,8 +1,5 @@
 <table>
 <tr>
-<td valign="top" style="padding-right:18px">
-<img src="profile_image.svg" width="64" height="64" alt="profile image" />
-</td>
 <td valign="top">
 <pre>
 neerajrp1999 ————————————————————————————————————————————————
