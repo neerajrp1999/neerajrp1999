@@ -10,8 +10,8 @@ neerajrp1999 ——————————————————————�
 . IDE: ....................... IntelliJ IDEA, VSCode, PyCharm
 
 . Core Expertise: ............ Full-Stack Web Development, API Design, Scalable Architecture, 
-                               System Design, Cloud Deployments, Performance Optimization,
-                               Agile Delivery, and End-to-End Product Development
+. Core Expertise: ............ System Design, Cloud Deployments, Performance Optimization,
+. Core Expertise: ............ Agile Delivery, and End-to-End Product Development
 
 . Languages.Programming: ..... Java, Python, JavaScript/TypeScript, C, C++
 . Frontend: .................. React JS/TS, Redux, Tailwind CSS, HTML, CSS
