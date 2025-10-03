@@ -10,8 +10,8 @@ neerajrp1999 ——————————————————————�
 . IDE: ....................... IntelliJ IDEA, VSCode, PyCharm
 
 . Core Expertise: ............ Full-Stack Web Development, API Design, Scalable Architecture, 
-                               System Design, Cloud Deployments, Performance Optimization,
-                               Agile Delivery, and End-to-End Product Development
+. Core Expertise: ............ System Design, Cloud Deployments, Performance Optimization,
+. Core Expertise: ............ Agile Delivery, and End-to-End Product Development
 
 . Languages.Programming: ..... Java, Python, JavaScript/TypeScript, C, C++
 . Frontend: .................. React JS/TS, Redux, Tailwind CSS, HTML, CSS
@@ -36,9 +36,9 @@ neerajrp1999 ——————————————————————�
 . Total Repos: ............... 39 (Public: 25, Private: 14)
 . Stars: ..................... 4
 . Followers: ................. 3
-. Contributions (Last Year) .. 680
-. Commits: ................... 918
-. Lines of Code: ............. 1,183,584 (1,200,971++, 17,387-- )
+. Contributions (Last Year) .. 682
+. Commits: ................... 920
+. Lines of Code: ............. 1,179,741 (1,201,240++, 21,499-- )
 
 </pre>
 </td>
