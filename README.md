@@ -4,8 +4,8 @@
 <pre>
 neerajrp1999 ————————————————————————————————————————————————
 . OS: ........................ Windows 10, Linux, Android 14
-. Uptime: .................... 6+ years (Professional Experience)
-. Host: ...................... TTM Technologies, Inc.
+. Uptime: .................... 2+ years (Professional Experience)
+. Host: ...................... 64 Squares LLC, Pune.
 . Kernel: .................... Full-Stack Software Engineer | Backend-Focused | Cloud-Native Systems
 . IDE: ....................... IntelliJ IDEA, VSCode, PyCharm
 
@@ -27,17 +27,18 @@ neerajrp1999 ——————————————————————�
 . Hobbies.Hardware: .......... Overclocking, Undervolting
 
 — Contact ——————————————————————————————————————————————
-. Email.Personal: ............ neerajrp1999@gmail.com
-. Email.Work: ................ neerajrp1999@zohomail.in
-. LinkedIn: .................. neerajprajapati309
-. Leetcode: .................. neerajrp1999
+. Email.Personal: ............ <a href="mailto:neerajrp1999@gmail.com">neerajrp1999@gmail.com</a>
+. Email.Work: ................ <a href="mailto:neerajrp1999@zohomail.in">neerajrp1999@zohomail.in</a>
+. LinkedIn: .................. <a href="https://www.linkedin.com/in/neerajprajapati309" target="_blank" rel="noopener noreferrer">neerajprajapati309</a>
+. Leetcode: .................. <a href="https://leetcode.com/neerajrp1999" target="_blank" rel="noopener noreferrer">neerajrp1999</a>
 
  — GitHub Stats ——————————————————————————————————————————
-. Total Repos: ............... 23 (Public: 23, Private: 0)
-. Stars: ..................... 3
+. Total Repos: ............... 39 (Public: 25, Private: 14)
+. Stars: ..................... 4
 . Followers: ................. 3
-. Contributions/Commits (Last Year): 0
-. Lines of Code: ............. 0 (0++, 0-- )
+. Contributions (Last Year) .. 680
+. Commits: ................... 918
+. Lines of Code: ............. 1,183,584 (1,200,971++, 17,387-- )
 
 </pre>
 </td>
